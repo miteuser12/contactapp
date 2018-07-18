@@ -9,3 +9,34 @@ h3{
 #update{
     display: none;
 }
+
+table{
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 70%;
+}
+
+table td{
+    border: 1px solid gray;
+    padding: 10px;
+}
+
+table tr:nth-child(even){
+    background-color: #f2f2f2;
+}
+
+table td:hover{
+    background-color: darkgray;
+}
+input{
+    width: 150px;
+    height: 30px;
+    border: 1px solid blue;
+}
+
+table td button{
+    background-color: blue;
+    color: white;
+    width: 60px;
+    height: 30px;
+}
