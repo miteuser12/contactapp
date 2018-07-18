@@ -28,6 +28,8 @@ table tr:nth-child(even){
 table td:hover{
     background-color: darkgray;
 }
+
+
 input{
     width: 150px;
     height: 30px;
